@@ -1,6 +1,6 @@
 <?php 	
 
-$localhost = "192.168.1.50";
+$localhost = "192.168.1.50/phpmyadmin";
 $username = "root";
 $password = "@Admin123";
 $dbname = "stock";
