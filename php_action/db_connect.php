@@ -1,8 +1,8 @@
 <?php 	
 
-$localhost = "127.0.0.1";
+$localhost = "192.168.1.50";
 $username = "root";
-$password = "";
+$password = "@Admin123";
 $dbname = "stock";
 
 // db connection

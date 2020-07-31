@@ -8,6 +8,6 @@ session_unset();
 // destroy the session 
 session_destroy(); 
 
-header('location: http://tecnocar.test/index.php');
+header('location: http://team-auz.test/index.php');
 
 ?>
